@@ -1,6 +1,9 @@
 # codeial
 
-Technologies
+
+
+
+# Technologies
 Codeial uses a number of open source projects to work properly:
 
 VS Code - awesome web-based text editor
